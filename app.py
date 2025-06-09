@@ -118,7 +118,7 @@ try:
         st.success(f"🩺 Prediction (num): **{prediction}**")
 
 except Exception as e:
-=======
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -236,5 +236,5 @@ try:
         st.success(f"🩺 Prediction (num): **{prediction}**")
 
 except Exception as e:
->>>>>>> 8ecc9ded74955975969df73c3bfd62498c425644
+
     st.error(f"🚫 Error loading or processing data: {e}")
