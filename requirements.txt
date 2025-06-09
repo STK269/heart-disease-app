@@ -3,9 +3,4 @@ streamlit
 pandas
 numpy
 scikit-learn
-=======
-streamlit
-pandas
-numpy
-scikit-learn
->>>>>>> 8ecc9ded74955975969df73c3bfd62498c425644
+
